@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39ff7929.css",
+    "main.js": "/static/js/main.97109401.js",
+    "static/media/andc_logo.png": "/static/media/andc_logo.2d0ef365f79b2c369b3d.png",
+    "static/media/Presentation.png": "/static/media/Presentation.3a65f25d73fe6205e550.png",
+    "index.html": "/index.html",
+    "main.39ff7929.css.map": "/static/css/main.39ff7929.css.map",
+    "main.97109401.js.map": "/static/js/main.97109401.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39ff7929.css",
+    "static/js/main.97109401.js"
+  ]
+}
